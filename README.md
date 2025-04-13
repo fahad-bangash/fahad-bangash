@@ -6,7 +6,7 @@ I'm a **self-motivated**, **creative**, and **results-driven Full Stack Software
 
 I architect high-performance web applications with a focus on seamless user experiences and robust, scalable backends. My expertise spans:
 
-Key Project Domains:
+**Key Project Domains:**
 **Enterprise Retail**: Custom POS systems with real-time analytics, inventory sync, and omnichannel support.
 
 **SaaS Platforms**: Admin dashboards (CRM/ERP) with RBAC, Stripe/PayPal, and dynamic data visualization.
