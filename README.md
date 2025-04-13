@@ -1,4 +1,4 @@
-<img src="https://github.com/fahadbangash/fahadbangash/blob/main/banner.png" alt="Fahad Bangash Banner" style="width:100%;" />
+
 
 ## 👋 Hi, I’m Fahad Bangash — Full Stack Developer (MERN + Next.js)
 
