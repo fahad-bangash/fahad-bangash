@@ -7,7 +7,7 @@ I'm a **self-motivated**, **creative**, and **results-driven Full Stack Software
 I architect high-performance web applications with a focus on seamless user experiences and robust, scalable backends. My expertise spans:
 
 Key Project Domains:
-✅ Enterprise Retail Solutions – Custom Point of Sale (POS) systems with real-time inventory, analytics, and multi-store sync.
+✅ Enterprise Retail Solutions – Custom Point of Sale (POS) systems with real-time inventory, analytics, and multi-store sync.<br/>
 ✅ SaaS Platforms – Scalable admin dashboards (e.g., CRM, ERP) with role-based access, Stripe/PayPal integrations, and data visualization.
 ✅ AI-Integrated Web Apps – LLM-powered tools (e.g., document summarization, chatbots) using OpenAI API or custom NLP models.
 ✅ MERN Stack Applications – React + Node.js + MongoDB apps (e.g., job boards, e-learning platforms, social networks) with JWT auth, WebSockets, and serverless functions.
