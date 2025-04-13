@@ -7,11 +7,15 @@ I'm a **self-motivated**, **creative**, and **results-driven Full Stack Software
 I architect high-performance web applications with a focus on seamless user experiences and robust, scalable backends. My expertise spans:
 
 Key Project Domains:
-✅ Enterprise Retail Solutions – Custom Point of Sale (POS) systems with real-time inventory, analytics, and multi-store sync.<br/>
-✅ SaaS Platforms – Scalable admin dashboards (e.g., CRM, ERP) with role-based access, Stripe/PayPal integrations, and data visualization.
-✅ AI-Integrated Web Apps – LLM-powered tools (e.g., document summarization, chatbots) using OpenAI API or custom NLP models.
-✅ MERN Stack Applications – React + Node.js + MongoDB apps (e.g., job boards, e-learning platforms, social networks) with JWT auth, WebSockets, and serverless functions.
-✅ E-Commerce Ecosystems – Headless storefronts (Next.js) with Shopify/Medusa backends, checkout flows, and recommendation engines.
+**Enterprise Retail**: Custom POS systems with real-time analytics, inventory sync, and omnichannel support.
+
+**SaaS Platforms**: Admin dashboards (CRM/ERP) with RBAC, Stripe/PayPal, and dynamic data visualization.
+
+**AI-Integrated Apps**: LLM tools (document summarization, chatbots) via OpenAI or custom NLP models.
+
+**MERN Stack**: React/Node.js/MongoDB apps (e-learning, social networks) with JWT, WebSockets, and serverless APIs.
+
+**E-Commerce**: Headless storefronts (Next.js) with Shopify/Medusa backends and recommendation engines.
 
 I prioritize clean, tested, and maintainable code—deployed with CI/CD (GitHub Actions, Docker) and cloud infra (AWS, Vercel). Let’s turn ideas into impact.
 
