@@ -45,12 +45,6 @@ I specialize in delivering high-quality user experiences and production-level ba
 
 ---
 
-### 📊 GitHub Stats
-
-![Fahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahadbangash&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadbangash&layout=compact&theme=radical)
-
----
 
 ### 📫 Let's Connect
 
